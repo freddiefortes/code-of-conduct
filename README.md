@@ -10,7 +10,7 @@ OSSU provides an environment where all learners and contributors can feel safe a
 # Prohibitions
 * No violence or threats of violence of any kind.
 * No sexist, racist, homophobic, transphobic, or any other prejudiced or discriminatory language or actions; this includes jokes.
-* No sexual harrasment, including unwelcome sexual advances or offensive remarks about a person's sex.
+* No sexual harassment, including unwelcome sexual advances or offensive remarks about a person's sex.
 * No cursing or swearing at other people (but feel free to use curses and swears about the #$%@ code, IDE, language, hardware or physics).
 * No NSFW material. This includes nudity, gore, or any other potentially disturbing imagery.
 * No revealing another's private information against their wishes (doxxing).
